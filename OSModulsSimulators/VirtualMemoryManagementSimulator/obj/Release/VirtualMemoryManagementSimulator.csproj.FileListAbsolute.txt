@@ -1,0 +1,6 @@
+D:\RU\Русенски университет 7 сем\OS\Eliz\LeastFreq\VirtualMemoryManagementSimulator\obj\Release\VirtualMemoryManagementSimulator.csprojResolveAssemblyReference.cache
+D:\RU\Русенски университет 7 сем\OS\Eliz\LeastFreq\VirtualMemoryManagementSimulator\bin\Release\VirtualMemoryManagementSimulator.exe.config
+D:\RU\Русенски университет 7 сем\OS\Eliz\LeastFreq\VirtualMemoryManagementSimulator\bin\Release\VirtualMemoryManagementSimulator.exe
+D:\RU\Русенски университет 7 сем\OS\Eliz\LeastFreq\VirtualMemoryManagementSimulator\bin\Release\VirtualMemoryManagementSimulator.pdb
+D:\RU\Русенски университет 7 сем\OS\Eliz\LeastFreq\VirtualMemoryManagementSimulator\obj\Release\VirtualMemoryManagementSimulator.exe
+D:\RU\Русенски университет 7 сем\OS\Eliz\LeastFreq\VirtualMemoryManagementSimulator\obj\Release\VirtualMemoryManagementSimulator.pdb
