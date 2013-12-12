@@ -1,0 +1,8 @@
+D:\Projects\C#Projects\ESharpCompiler\Compiler\bin\Debug\Compiler.exe.config
+D:\Projects\C#Projects\ESharpCompiler\Compiler\bin\Debug\Compiler.exe
+D:\Projects\C#Projects\ESharpCompiler\Compiler\bin\Debug\Compiler.pdb
+D:\Projects\C#Projects\ESharpCompiler\Compiler\bin\Debug\PowerCollections.dll
+D:\Projects\C#Projects\ESharpCompiler\Compiler\bin\Debug\PowerCollections.xml
+D:\Projects\C#Projects\ESharpCompiler\Compiler\obj\Debug\Compiler.exe
+D:\Projects\C#Projects\ESharpCompiler\Compiler\obj\Debug\Compiler.pdb
+D:\Projects\C#Projects\ESharpCompiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\bin\Debug\Compiler.Tests.dll
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\bin\Debug\Compiler.Tests.pdb
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\bin\Debug\Compiler.exe
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\bin\Debug\PowerCollections.dll
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\bin\Debug\Compiler.pdb
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\bin\Debug\PowerCollections.xml
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\obj\Debug\Compiler.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\obj\Debug\Compiler.Tests.dll
+D:\Projects\C#Projects\ESharpCompiler\Compiler.Tests\obj\Debug\Compiler.Tests.pdb

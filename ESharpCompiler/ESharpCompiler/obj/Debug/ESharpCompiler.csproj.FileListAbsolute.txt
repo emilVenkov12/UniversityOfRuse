@@ -1,0 +1,13 @@
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\bin\Debug\ESharpCompiler.exe.config
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\bin\Debug\ESharpCompiler.exe
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\bin\Debug\ESharpCompiler.pdb
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler.csprojResolveAssemblyReference.cache
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\MainWindow.baml
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\MainWindow.g.cs
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\App.g.cs
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler_MarkupCompile.cache
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler.g.resources
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler.Properties.Resources.resources
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler.csproj.GenerateResource.Cache
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler.exe
+D:\Projects\C#Projects\ESharpCompiler\ESharpCompiler\obj\Debug\ESharpCompiler.pdb
